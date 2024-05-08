@@ -1,0 +1,8 @@
+.color{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    border-radius: 60px;
+}
